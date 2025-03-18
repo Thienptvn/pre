@@ -12,4 +12,4 @@ hostname = %APPEND% photos.adobe.io
 
 [Script]
 
-LightRoom=type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts*,requires-body=1,script-path=https://raw.githubusercontent.com/quocchienn/Make/refs/heads/crack/Lightroom.js
+LightRoom=type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts*,requires-body=1,script-path=https://raw.githubusercontent.com/Thienptvn/pre/refs/heads/main/lightroom/Lightroom.js
