@@ -11,4 +11,4 @@ tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
 hostname = api.picsart.com
 
 [Script]
-http-request https://api.picsart.com/gw-v2/shop/subscription/apple/purchases script-path=https://raw.githubusercontent.com/quocchienn/Make/refs/heads/crack/PicsArt.js, requires-body=true, timeout=5, tag=PicsArt
+http-request https://api.picsart.com/gw-v2/shop/subscription/apple/purchases script-path=https://raw.githubusercontent.com/Thienptvn/pre/refs/heads/main/piscart/piscart.js, requires-body=true, timeout=5, tag=PicsArt
